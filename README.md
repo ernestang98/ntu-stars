@@ -1,6 +1,6 @@
 # CZ2002 Project: NTU STARS
 
-Objective of the projective is to create a command-line application to mimic NTU's course registration system (STARS) using Java
+Objective of the project is to create a command-line application to mimic NTU's course registration system (STARS) using Java
 
 Click [here](https://www.youtube.com/watch?v=wbPBIBWeg7s&feature=youtu.be) for project demonstration
 
